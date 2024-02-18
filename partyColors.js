@@ -1,5 +1,5 @@
 window._partyColors = {
-    "UP": "#e51c55",
+    "UP": "#9370DB",
     "SUMAR": "#e51c55",
     "PSOE": "#e02020", // #DA291C
     "PP": "#02a2dd", // #17589D
