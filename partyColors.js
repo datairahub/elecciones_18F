@@ -34,5 +34,5 @@ window._partyColors = {
     "CPM": "#719430", // Coalición por melilla
     "FO": "#B11E1A", // Frente obrero
     "JM": "#286B3D", // Jaén merece más
-
+    "DO": "#FFCC00", // Democracia Ourensana
 }
